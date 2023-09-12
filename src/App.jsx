@@ -30,7 +30,7 @@ const arrayDog=[
   },
   {id:'4',
   nombre:'Tebi',
-  raza:'Terier',
+  raza:'Terrier',
   imgUrl:'https://cdn.pixabay.com/photo/2014/04/05/11/40/dog-316598_1280.jpg',
   descripcion:'Es una compañero muy leal. !Dale a Tebi el hogar amoroso que se merece!',
   color:'warning'
