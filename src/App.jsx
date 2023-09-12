@@ -25,14 +25,14 @@ const arrayDog=[
   nombre:'Koda',
   raza:'Boxer',
   imgUrl:'https://cdn.pixabay.com/photo/2016/03/27/21/16/pet-1284307_1280.jpg',
-  descripcion:'Un perrito que se adapta a cualquier ambiente. !Dale a Koda el hogar amoroso que se merece!',
+  descripcion:'Un perrito con un corazón gigante !Dale a Koda el hogar amoroso que se merece!',
   color:'success'
   },
   {id:'4',
   nombre:'Tebi',
   raza:'Terrier',
   imgUrl:'https://cdn.pixabay.com/photo/2014/04/05/11/40/dog-316598_1280.jpg',
-  descripcion:'Es una compañero muy leal. !Dale a Tebi el hogar amoroso que se merece!',
+  descripcion:'Es un compañero muy cariñoso. !Dale a Tebi el hogar amoroso que se merece!',
   color:'warning'
   },
 ];
