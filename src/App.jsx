@@ -40,7 +40,7 @@ const arrayDog=[
   return (
     <>
       <Header titulo="Adopta un perrito"/>
-      <div className='d-flex col-12 justify-content-center align-items-center bd-highlight mb-3 gap-3 mt-5'>
+      <div className='d-flex flex-lg-row flex-sm-column justify-content-center align-items-center bd-highlight mb-3 gap-3 mt-5'>
         {arrayDog.map(({id,nombre,descripcion,imgUrl,raza,color})=>
         (
           <DogCard key={id} nameDog={nombre} textDog={descripcion} imgUrl={imgUrl} tagRaza={raza} tagColor={color} />
