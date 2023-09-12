@@ -1,7 +1,8 @@
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer className="footer">Explora nuestra galeria de adopción de perros para encontrar a tu compañero perfecto. Tenemos
+    una variedad de perros con diferentes personalidades y tamaños, todos en busca de un hogar amoroso.</footer>
   )
 }
 

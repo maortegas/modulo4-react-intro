@@ -3,7 +3,7 @@ import Badge from 'react-bootstrap/Badge';
 
 const Tags = ({raza, color}) => {
   return (
-    <Badge bg={color}>{raza}</Badge>
+    <Badge className='w-100' bg={color}>{raza}</Badge>
   )
 }
 
