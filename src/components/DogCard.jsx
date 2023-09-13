@@ -5,7 +5,7 @@ import Tags from './Tags';
 const DogCard = ({ nameDog, textDog, imgUrl, tagRaza, tagColor}) => {
   return (
     <>
-      <Card style={{ width: "18rem"  }} >
+      <Card  style={{ width: "18rem"  }} >
         <Card.Img variant="top" src={imgUrl} />
         <Card.Body className="text-center">
         <Card.Title >{nameDog}</Card.Title>
